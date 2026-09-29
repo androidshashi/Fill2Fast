@@ -15,7 +15,7 @@ npm run lint
 
 All URLs live in [`lib/site.ts`](lib/site.ts):
 
-- `CHROME_STORE_URL`: set this to the Chrome Web Store listing once it's published. Every "Add to Chrome" button uses it.
+- `CHROME_STORE_URL`: the [Chrome Web Store listing](https://chromewebstore.google.com/detail/fill2fast/ifgdombmnmbenmmecbbfolnhnmccflfd). Every "Add to Chrome" button uses it.
 - `GITHUB_URL`, `GITHUB_ISSUES_URL`
 - `SITE_URL`: comes from `NEXT_PUBLIC_SITE_URL` at build time and is used for absolute Open Graph URLs.
 

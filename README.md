@@ -2,6 +2,8 @@
 
 Repository: https://github.com/androidshashi/Fill2Fast
 
+Chrome Web Store: https://chromewebstore.google.com/detail/fill2fast/ifgdombmnmbenmmecbbfolnhnmccflfd
+
 A local-first Chrome extension that fills job applications from a profile you save once.
 
 > Save your information once → open any job application → review the detected fields → fill them with one click.
@@ -56,6 +58,8 @@ tests/                     Vitest + jsdom unit and DOM tests
 ```
 
 ## 2. Installation
+
+To just use the extension, install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/fill2fast/ifgdombmnmbenmmecbbfolnhnmccflfd). To build it from source:
 
 Requirements: Node.js 20+ and Chrome 116+.
 
